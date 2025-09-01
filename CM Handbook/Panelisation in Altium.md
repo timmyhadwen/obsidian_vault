@@ -10,7 +10,8 @@
 	1. Think about the order strips are broken away, and if there is multiple boards on the panel think about the quickest and easiest way for them to be separated
 7. Add the Route Tool Path layer on the panel (Mech 11, Green) to match step 1.1
 8. Insert PanelID Box (top and bottom) on bottom tooling strip (Copy these from an existing panel)
-9. Add Square fiducial marks in the middle of the tooling strips in the bottom left, bottom right and top right corners (top and bottom).  (Copy these from an existing panel)
+9. Add Square fiducial marks in the middle of the tooling strips in the bottom left, bottom right and top right corners (top and bottom).  (Copy these from an existing panel) Add silkscreen showing the X and Y distance from the origin point, as well as the fiducial mark size (normally 2mm)
+![[Pasted image 20250901125644.png]]
 10. Add a label onto the top tooling strip (top side and bottom side) with the panel dimensions
 ![[Pasted image 20250901115536.png]]
 11. Add a label onto the middle of the top tooling strip with panel spacing (top and bottom side)
