@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/EBOM QUO2867_EOS_2004264-03.md",
+                "file": "QUO2867 (EOS Rounds Counter)/Contacts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EBOM QUO2867_EOS_2004264-03"
+              "title": "Contacts"
             }
           }
         ],
@@ -208,7 +208,9 @@
   },
   "active": "f789ed1770c37ad3",
   "lastOpenFiles": [
-    "Attachments/EBOM QUO2867_EOS_2004264-03.md",
+    "QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
+    "QUO2867 (EOS Rounds Counter)/Contacts.md",
+    "QUO2867 (EOS Rounds Counter)",
     "QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
     "CM Handbook/Panelisation in Altium.md",
     "CM Handbook/CM Import Process.md",
