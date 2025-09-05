@@ -9,5 +9,6 @@ I am working with Wesley on your quote for PCA Rounds Counter. We have a few que
 
 1. Cradle Electronics Heatsink - 1001792 - We have no drawing etc for this. Could you provide a drawing or advise whether you will provide this to us.
 2. Common Mode Choke - WCA05814 - We have no detail here other than your internal part number. Could you provide details or advise if you will provide this to us.
+3. MMA6825BKCW is end of life and not available from authorised suppliers.
 
 Kind Regards
