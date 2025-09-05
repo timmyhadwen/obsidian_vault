@@ -14,6 +14,6 @@ For 2004264-03 Cradle Electronics MK44:
 
 For 2010619-01 Rounds Counter M249:
 1. AD22286-R2 is end of life and not available from authorised suppliers. Is EOS able to supply this part? Alternatively we could look into broker supply.
-2. We noted in the build instructions reference to 3 wires, adhesive and 
+2. We noted in the build instructions reference to 3 wires, adhesive and a formed piece of 22SWG wire, however these are omitted from the BOM.
 
 Kind Regards
