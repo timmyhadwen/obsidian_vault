@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
+                "file": "CM Handbook/CM Import Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUO2867_EOS_2004264-03"
+              "title": "CM Import Process"
+            }
+          },
+          {
+            "id": "2c5f0e70c754ddd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/AeroVision Repair.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AeroVision Repair"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,17 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7c9c5d467954e5c",
+  "active": "2c5f0e70c754ddd6",
   "lastOpenFiles": [
-    "QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
-    "QUO2867 (EOS Rounds Counter)/Contacts.md",
-    "Attachments/Untitled.md",
-    "Attachments/Reimporting BOM into Costing Sheet.md",
-    "QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
-    "QUO2867 (EOS Rounds Counter)",
-    "CM Handbook/Panelisation in Altium.md",
+    "Attachments/AeroVision Repair.md",
     "CM Handbook/CM Import Process.md",
     "CM Handbook/Notes for CM handbook.md",
+    "CM Handbook/Panelisation in Altium.md",
+    "QUO2867 (EOS Rounds Counter)/Contacts.md",
+    "QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
+    "QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
+    "Attachments/Reimporting BOM into Costing Sheet.md",
+    "QUO2867 (EOS Rounds Counter)",
     "Attachments/Pasted image 20250901115815.png",
     "Attachments/Pasted image 20250901130316.png",
     "Attachments/Pasted image 20250901125644.png",
