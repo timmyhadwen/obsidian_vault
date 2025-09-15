@@ -1,3 +1,5 @@
+![[Pasted image 20250915161301.png]]
+![[Pasted image 20250915161339.png]]
 ```math
 # Variables
 CS_5 = 2319.90 # 5 QTY
