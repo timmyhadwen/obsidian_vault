@@ -32,3 +32,6 @@ nre_perunit = nre_rem / qty
 unit_price = CS + nre_perunit
 total = nre + unit_price*qty
 ```
+
+
+Ask for golden unit when functional testing is required.
