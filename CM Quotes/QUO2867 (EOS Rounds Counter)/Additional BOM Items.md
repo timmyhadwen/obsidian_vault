@@ -14,3 +14,4 @@
 * [ ] Heatshrink tubing 1.6mm DIA black (FCS 470-0044)
 	* [ ] $2.45 / 1m
 * [ ] Vibratite VC3-30
+	* [ ] $26 / tube but not available in Aus from reliable suppliers
