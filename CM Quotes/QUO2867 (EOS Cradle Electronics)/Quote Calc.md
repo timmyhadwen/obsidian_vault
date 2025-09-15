@@ -1,4 +1,5 @@
 ```math
+# Variables
 CS = 2009.69 # 5 QTY
 nre_h = 71*230
 nre_l = 57*230
