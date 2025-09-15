@@ -20,7 +20,8 @@ Contract Manufacturing
 			4. Custom part capture (if quoted)
 		5. Risk register
 		6. Labeling and Packaging
-			1. *CSN Packaging Labels*
+			1. Packaging Kit
+			2. *CSN Packaging Labels*
 		7. Full RFQ
 		8. *CR/SR Creation and Release*
 		9. **Design Import Gate Review**
