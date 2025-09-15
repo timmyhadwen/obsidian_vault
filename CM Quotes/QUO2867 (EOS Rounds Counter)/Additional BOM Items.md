@@ -8,8 +8,9 @@
 - [ ] HPA200H aerosol conformal coat (FCS 1002543)
 	- [ ] Replace with Humiseal 1B31
 * [ ] CHEMASK CM 8I, Peelable Solder Mask (FCS 1002544)
-	* [ ] Digikey $62.88 per bottle
+	* [x] Digikey $62.88 per bottle
 * [ ] Heatshrink, ½” (HEATSHRINK, Raychem DR-25, 1/2" MIL-I-23053-16. (FCS 470-0018)
-	* [ ] $6.5 per 30cm
+	* [x] $6.5 per 30cm
 * [ ] Heatshrink tubing 1.6mm DIA black (FCS 470-0044)
+	* [ ] $2.45 / 1m
 * [ ] Vibratite VC3-30
