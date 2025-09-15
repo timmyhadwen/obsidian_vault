@@ -1,6 +1,8 @@
 ```math
 CS = 2009.69 # 5 QTY
-nre_base = 17000
+nre_h = 71*230
+nre_l = 57*230
+nre_base = (nre_h + nre_l)/2
 stencil = 1000
 pcb_tooling = 300
 nre_total = nre_base + stencil + pcb_tooling
