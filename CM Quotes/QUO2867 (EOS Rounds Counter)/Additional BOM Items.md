@@ -13,5 +13,7 @@
 
 * [ ] Vibratite VC3-30
 	* [/] $26 / tube but not available in Aus from reliable suppliers
+	* [ ] Emailed manufacturer about authorized distributors in AU
 - [ ] Loctite 315, Thermally conductive adhesive (FCS 620-0159)
 	- [/] Seems difficult to source in Australia
+	- [ ] RFQ sent to Aerospace Materials Pty LTD
