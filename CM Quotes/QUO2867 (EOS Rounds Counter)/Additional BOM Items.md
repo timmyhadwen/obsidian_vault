@@ -1,10 +1,9 @@
 - [ ] Master Bond (EP21TDC MASTER BOND EPOXY-DAYGLOW YELLOW FCS 1001052)
-	- [ ] $15 per unit
+	- [x] $15 per unit
 - [ ] WIRE, MIL-W-22759/32-22-9, 22AWG White. (FCS 700-0089)
-	- [x] Same as other BOM
-	- [ ] $1.64 / foot = ~0.5ft per unit = $0.70 per unit
+	- [x] $1.64 / foot = ~0.5ft per unit = $0.70 per unit
 - [ ] HPA200H aerosol conformal coat (FCS 1002543)
-	- [ ] Replace with Humiseal 1B31 = $5 per unit
+	- [x] Replace with Humiseal 1B31 = $5 per unit
 * [ ] CHEMASK CM 8I, Peelable Solder Mask (FCS 1002544)
 	* [x] Digikey $62.88 per bottle
 * [ ] Heatshrink, ½” (HEATSHRINK, Raychem DR-25, 1/2" MIL-I-23053-16. (FCS 470-0018)
