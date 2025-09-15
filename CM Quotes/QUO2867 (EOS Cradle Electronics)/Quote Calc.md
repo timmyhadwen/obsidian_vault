@@ -10,18 +10,24 @@ nre_total = nre_base + stencil + pcb_tooling
 # Option 1 - Amortised over 5 units
 qty = 5
 nre = 4500
-unit_price = CS + (nre_total - nre)/qty
+nre_rem = nre_total - nre
+nre_perunit = nre_rem / qty
+unit_price = CS + nre_perunit
 total = nre + unit_price*qty
 
 # Option 2 - Not Amortised
 qty = 5
 nre = nre_total
-unit_price = CS + (nre_total - nre)/qty
+nre_rem = nre_total - nre
+nre_perunit = nre_rem / qty
+unit_price = CS + nre_perunit
 total = nre + unit_price*qty
 
 # Option 3 - Amortised over 70 units
 qty = 70
 nre = 4500
-unit_price = CS + (nre_total - nre)/qty
+nre_rem = nre_total - nre
+nre_perunit = nre_rem / qty
+unit_price = CS + nre_perunit
 total = nre + unit_price*qty
 ```
