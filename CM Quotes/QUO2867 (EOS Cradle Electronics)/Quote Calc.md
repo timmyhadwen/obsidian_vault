@@ -1,7 +1,7 @@
 ```math
 # Variables
-CS_5 = 2009.69 # 5 QTY
-CS_65 = 1500 # 65 QTY
+CS_5 = 2319.90 # 5 QTY
+CS_65 = 1469.80 # 65 QTY
 nre_h = 69*230
 nre_l = 88*230
 nre_base = (nre_h + nre_l)/2
