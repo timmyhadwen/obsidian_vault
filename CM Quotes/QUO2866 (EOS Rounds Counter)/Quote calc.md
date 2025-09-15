@@ -1,6 +1,6 @@
 ```math
 CS_10 = 195.51 # 10 QTY
-CS_50 = 1 # 50 QTY
+CS_50 = 132.21 # 50 QTY
 nre_base = 8050
 stencil = 500
 pcb_tooling = 300
@@ -16,8 +16,13 @@ nre = nre_total
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
 
-# Option 3 - Amortised over 50 units
+# Option 3 - Amortised over 60 units
 nre = 3800
-unit_price = CS_10 + (nre_total - nre)/50
-total = nre + unit_price*50
+nre_rem = nre_base - nre
+nre_perunit = nre_rem / 60
+unit_price_10 = nre_perunit + CS_10
+unit_price_50 = nre_perunit + CS_50
+
+line_price_10 = unit_price_10 * 10 # 10x units pilot
+line_price_50 = unit_price_50 * 50 # 50x units serial
 ```
