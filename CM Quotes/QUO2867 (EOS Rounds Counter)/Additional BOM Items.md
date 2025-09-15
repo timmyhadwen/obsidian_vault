@@ -6,7 +6,7 @@
 	- [x] Same as other BOM
 	- [x] $1.64 / foot
 - [ ] HPA200H aerosol conformal coat (FCS 1002543)
-	- [ ] Replace with Humiseal
+	- [ ] Replace with Humiseal 1B31
 * [ ] CHEMASK CM 8I, Peelable Solder Mask (FCS 1002544)
 	* [ ] Digikey $62.88 per bottle
 * [ ] Heatshrink, ½” (HEATSHRINK, Raychem DR-25, 1/2" MIL-I-23053-16. (FCS 470-0018)
