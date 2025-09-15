@@ -6,7 +6,6 @@
 	2. Could we make the diff tool that works with EBOMs work with Tritum BOMs?
 4. Could we have a button to add a line to the Costing Sheet?
 	1. This can be useful when extra parts are found in project documentation that aren't in the BOM or if there is a weird labour amount that needs to be included but doesn't relate to a specific part
-
 ## Task Boards
 1. Select all lines button (useful when doing scheduling for CM projects etc)
 	1. Sequence all projects button would be equally as useful
