@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Quotes/QUO2866 (EOS Rounds Counter)/Quote options.md",
+                "file": "CM Quotes/QUO2867 (EOS Cradle Electronics)/Quote Calc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quote options"
+              "title": "Quote Calc"
             }
           }
         ],
@@ -203,13 +203,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
   "active": "2c5f0e70c754ddd6",
   "lastOpenFiles": [
-    "CM Quotes/QUO2867 (EOS Cradle Electronics)/Additional BOM Items.md",
     "CM Quotes/QUO2866 (EOS Rounds Counter)/Quote options.md",
+    "CM Quotes/QUO2867 (EOS Cradle Electronics)/Quote Calc.md",
+    "CM Quotes/QUO2867 (EOS Cradle Electronics)/Additional BOM Items.md",
     "CM Quotes/QUO2866 (EOS Rounds Counter)",
     "CM Handbook/Notes for CM handbook.md",
     "CM Handbook/CM Import Process.md",
