@@ -30,11 +30,13 @@ Contract Manufacturing
 			1. Panelisation
 				1. Altium
 				2. FAB3000
+			2. Stencil
 		2. Test Report Template Generation (TRT)
 		3. *CR/SR Creation and Release*
 		4. **Build Readiness Gate Review**
 	4. Phase 4 - Pilot/FAI Phase
-		1. Customer response
+		1. Customer Response
+		2. **NPI Gate Review**
 	5. Phase 5 - Serial Production/NPI Phase
 2. Client Specific CM Documentation
 	1. Rheinmetall
