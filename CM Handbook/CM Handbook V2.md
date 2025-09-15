@@ -3,39 +3,47 @@ Contract Manufacturing
 	1. Phase 1 - Planning Phase
 		1. Quoting
 			1. BOM import
-				1. Naming Scheme
+				1. Naming scheme
 				2. Initial import
 				3. RFQs of custom parts/hard to source parts
-			2. Labor Estimates
-			3. Requirements register
+				4. Free issued & customer supplied parts
+			2. Additional processes
+				1. Conformal coating
+					1. Automated
+					2. Manual (Brush/Aerosol)
+				2. Staking/gluing
+			3. Labor estimates
+			4. Requirements register
 		2. **Planning Gate Review**
 	2. Phase 2 - Design Import Phase
 		1. BOM structure
 			1. High level/low level BOMs
 		2. Process flow diagram
 		3. BOM import (EBOM/Tritium BOM Import)
-			1. Naming Scheme
+			1. Naming scheme
 			2. Source critical parts
 			3. ID creation
 			4. Custom part capture (if quoted)
 		5. Risk register
-		6. Labeling and Packaging
-			1. Packaging Kit
-			2. *CSN Packaging Labels*
+		6. Labeling and packaging
+			1. Packaging kit
+			2. *CSN packaging labels*
 		7. Full RFQ
-		8. *CR/SR Creation and Release*
-		9. **Design Import Gate Review**
+		8. Variations
+		9. *CR/SR creation and release*
+		10. **Design Import Gate Review**
 	3. Phase 3 - Build Readiness Phase
-		1. Production File Generation
+		1. Production file generation
 			1. Panelisation
 				1. Altium
 				2. FAB3000
 			2. Stencil
-		2. Test Report Template Generation (TRT)
-		3. *CR/SR Creation and Release*
+			3. PFS
+		2. Test report template generation (TRT)
+		3. *CR/SR creation and release*
 		4. **Build Readiness Gate Review**
 	4. Phase 4 - Pilot/FAI Phase
-		1. Customer Response
+		1. Customer response
 		2. **NPI Gate Review**
 	5. Phase 5 - Serial Production/NPI Phase
 2. Client Specific CM Documentation
