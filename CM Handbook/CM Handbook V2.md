@@ -6,7 +6,8 @@ Contract Manufacturing
 				1. Naming Scheme
 				2. Initial import
 				3. RFQs of custom parts/hard to source parts
-			2. Requirements register
+			2. Labor Estimates
+			3. Requirements register
 		2. **Planning Gate Review**
 	2. Phase 2 - Design Import Phase
 		1. BOM structure
@@ -25,6 +26,9 @@ Contract Manufacturing
 		9. **Design Import Gate Review**
 	3. Phase 3 - Build Readiness Phase
 		1. Production File Generation
+			1. Panelisation
+				1. Altium
+				2. FAB3000
 		2. Test Report Template Generation (TRT)
 		3. *CR/SR Creation and Release*
 		4. **Build Readiness Gate Review**
