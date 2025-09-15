@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircuitBoard",
+      "LiDollarSign",
+      "LiHammer",
       "LiBookUp2",
       "LiAlarmSmoke"
     ],
@@ -32,5 +35,8 @@
     "useInternalPlugins": false
   },
   "CM Handbook": "LiBookUp2",
-  "CM Quotes/QUO2799 (ASMB0607)": "LiAlarmSmoke"
+  "CM Builds/QUO2799 (ASMB0607)": "LiAlarmSmoke",
+  "CM Builds": "LiHammer",
+  "CM Quotes": "LiDollarSign",
+  "Hardware Projects": "LiCircuitBoard"
 }
