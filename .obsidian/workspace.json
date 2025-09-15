@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/AeroVision Repair.md",
+                "file": "CM Quotes/QUO2867 (EOS Rounds Counter)/Additional BOM Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AeroVision Repair"
+              "title": "Additional BOM Items"
             }
           }
         ],
@@ -206,31 +206,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c5f0e70c754ddd6",
+  "active": "b43b37c4c345d245",
   "lastOpenFiles": [
-    "Attachments/AeroVision Repair.md",
+    "CM Quotes/QUO2",
+    "CM Quotes/QUO2867 (EOS Rounds Counter)/Contacts.md",
+    "CM Quotes/QUO2867 (EOS Rounds Counter)/Additional BOM Items.md",
+    "CM Quotes/QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
+    "Aerovision/AeroVision Repair.md",
+    "CM Quotes",
+    "Aerovision",
     "CM Handbook/CM Import Process.md",
     "CM Handbook/Notes for CM handbook.md",
     "CM Handbook/Panelisation in Altium.md",
-    "QUO2867 (EOS Rounds Counter)/Contacts.md",
-    "QUO2867 (EOS Rounds Counter)/QUO2867_EOS_2004264-03.md",
-    "QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
-    "Attachments/Reimporting BOM into Costing Sheet.md",
-    "QUO2867 (EOS Rounds Counter)",
-    "Attachments/Pasted image 20250901115815.png",
-    "Attachments/Pasted image 20250901130316.png",
-    "Attachments/Pasted image 20250901125644.png",
-    "Attachments/Pasted image 20250901115536.png",
-    "Attachments/Pasted image 20250901101051.png",
-    "Attachments/Pasted image 20250901115529.png",
-    "Attachments/Pasted image 20250901115528.png",
-    "Attachments/Pasted image 20250901101052.png",
-    "Attachments",
-    "Attachments/Pasted image 20250829105753.png",
-    "Attachments",
-    "Attachments/Pasted image 20250825175827.png",
-    "Attachments",
+    "CM Quotes/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
+    "AAA Attachments/Reimporting BOM into Costing Sheet.md",
+    "CM Quotes/QUO2867 (EOS Rounds Counter)",
+    "AAA Attachments/Pasted image 20250901115815.png",
+    "AAA Attachments/Pasted image 20250901130316.png",
+    "AAA Attachments/Pasted image 20250901125644.png",
+    "AAA Attachments/Pasted image 20250901115536.png",
+    "AAA Attachments/Pasted image 20250901101051.png",
+    "AAA Attachments/Pasted image 20250901115529.png",
+    "AAA Attachments/Pasted image 20250901115528.png",
+    "AAA Attachments/Pasted image 20250901101052.png",
+    "AAA Attachments",
+    "AAA Attachments/Pasted image 20250829105753.png",
+    "AAA Attachments",
+    "AAA Attachments/Pasted image 20250825175827.png",
+    "AAA Attachments",
     "CM Handbook",
-    "QUO2799 (ASMB0607)"
+    "CM Quotes/QUO2799 (ASMB0607)"
   ]
 }
