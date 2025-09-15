@@ -1,6 +1,7 @@
 ```math
 # Variables
-CS = 2009.69 # 5 QTY
+CS_5 = 2009.69 # 5 QTY
+CS_65 = 1500 # 65 QTY
 nre_h = 69*230
 nre_l = 88*230
 nre_base = (nre_h + nre_l)/2
@@ -13,7 +14,7 @@ qty = 5
 nre = 4500
 nre_rem = nre_total - nre
 nre_perunit = nre_rem / qty
-unit_price = CS + nre_perunit
+unit_price = CS_5 + nre_perunit
 total = nre + unit_price*qty
 
 # Option 2 - Not Amortised
@@ -21,7 +22,7 @@ qty = 5
 nre = nre_total
 nre_rem = nre_total - nre
 nre_perunit = nre_rem / qty
-unit_price = CS + nre_perunit
+unit_price = CS_5 + nre_perunit
 total = nre + unit_price*qty
 
 # Option 3 - Amortised over 70 units
@@ -29,6 +30,12 @@ qty = 70
 nre = 4500
 nre_rem = nre_total - nre
 nre_perunit = nre_rem / qty
-unit_price = CS + nre_perunit
-total = nre + unit_price*qty
+unit_price_5 = CS_5 + nre_perunit
+unit_price_65 = CS_65 + nre_perunit
+
+# Quote Option 3
+nre
+ext_price_5 = unit_price_5*5
+ext_price_65 = unit_price_65*65
+total = nre + ext_price_5 + ext_price_65
 ```
