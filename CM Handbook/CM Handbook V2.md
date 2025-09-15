@@ -29,7 +29,7 @@ Contract Manufacturing
 			1. Packaging kit
 			2. *CSN packaging labels*
 		7. Full RFQ
-		8. Variations
+		8. Change Notices and Deviations
 		9. *CR/SR creation and release*
 		10. **Design Import Gate Review**
 	3. Phase 3 - Build Readiness Phase
