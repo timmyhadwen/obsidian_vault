@@ -24,4 +24,10 @@ qty = 70
 nre = 4500
 unit_price = CS + (nre_total - nre)/qty
 total = nre + unit_price*qty
+
+# Option 4 - Amortised over 70 units (applied to all)
+qty = 70
+nre = 4500
+unit_price = CS + (nre_total - nre)/qty
+total = nre + unit_price*qty
 ```
