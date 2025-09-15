@@ -20,11 +20,11 @@
 
 
 Problem Parts
-1001792 Cradle Electronics Heatsink | Lead time 9 weeks | 
-CBM9W4M57R70TO | Lead time 14 weeks from Manufacturer | Sample quantities requested |
-CBM17W2M57R70TO | Lead time 14 weeks from Manufacturer | Sample quantities requested |
-HDC25M5R70T0 | Lead time 14 weeks from Manufacturer | Sample quantities requested |
-WCA05814 Common mode choke custom | Ferrite core is obsolete | EOS engineering to provide alternate part number |
-MMA6825BKCW | Not available from authorised distributors | EOS to supply at $6.50 |
-QSMO-4250F-30MHz | Factory lead time 2 weeks | |
-IRL2505PBF | Not available from authorised distributors | EOS to supply at $2.20 | 
+||| 1001792 Cradle Electronics Heatsink || Lead time 9 weeks ||  |||
+|| CBM9W4M57R70TO || Lead time 14 weeks from Manufacturer || Sample quantities requested ||
+|| CBM17W2M57R70TO || Lead time 14 weeks from Manufacturer || Sample quantities requested ||
+|| HDC25M5R70T0 || Lead time 14 weeks from Manufacturer || Sample quantities requested ||
+|| WCA05814 Common mode choke custom || Ferrite core is obsolete || EOS engineering to provide alternate part number ||
+|| MMA6825BKCW || Not available from authorised distributors || EOS to supply at $6.50 ||
+|| QSMO-4250F-30MHz || Factory lead time 2 weeks || ||
+|| IRL2505PBF || Not available from authorised distributors || EOS to supply at $2.20 ||
