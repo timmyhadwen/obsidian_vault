@@ -2,7 +2,7 @@
 CS_10 = 195.51 # 10 QTY
 CS_50 = 132.21 # 50 QTY
 
-nre_base = 8050/2
+nre_base = 8050
 stencil = 500
 pcb_tooling = 300
 nre_total = nre_base + stencil + pcb_tooling
