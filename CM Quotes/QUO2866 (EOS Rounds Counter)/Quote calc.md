@@ -1,6 +1,6 @@
 ```math
 CS_10 = 228.10 # 10 QTY
-CS_50 = 132.21 # 50 QTY
+CS_50 = 154.25 # 50 QTY
 
 nre_base = 8050
 stencil = 500
