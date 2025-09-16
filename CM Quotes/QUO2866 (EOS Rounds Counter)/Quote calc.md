@@ -16,6 +16,11 @@ nre = nre_total
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
 
+# Option 2 - Full Amortised
+nre = 0
+unit_price = CS_10 + (nre_total - nre)/10
+total = nre + unit_price*10
+
 # Option 3 - Amortised over 60 units
 nre = 3800
 nre_rem = nre_base - nre
