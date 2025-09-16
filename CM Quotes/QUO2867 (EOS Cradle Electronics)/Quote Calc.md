@@ -29,7 +29,7 @@ total = nre + unit_price*qty
 
 # Option 3 - Amortised over 70 units
 qty = 70
-nre = 4500
+nre = 2500
 nre_rem = nre_total - nre
 nre_perunit = nre_rem / qty
 unit_price_5 = CS_5 + nre_perunit
