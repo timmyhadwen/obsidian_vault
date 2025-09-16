@@ -1,1 +1,1 @@
-Quoting for 
+Quoting for full assembly but not injection molded parts as they already have tooling
