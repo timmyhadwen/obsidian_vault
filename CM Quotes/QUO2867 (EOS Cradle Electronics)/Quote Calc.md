@@ -2,8 +2,8 @@
 ![[Pasted image 20250915161339.png]]
 ```math
 # Variables
-CS_5 = 2215.58 # 5 QTY
-CS_65 = 1411.43 # 1492.09 # 65 QTY
+CS_5 = 2342.19 # 5 QTY
+CS_65 = 1492.09 # 65 QTY
 nre_h = 69*230
 nre_l = 88*230
 nre_base = (nre_h + nre_l)/2
@@ -34,6 +34,14 @@ nre_rem = nre_total - nre
 nre_perunit = nre_rem / qty
 unit_price_5 = CS_5 + nre_perunit
 unit_price_65 = CS_65 + nre_perunit
+
+# Option 3b - $2500 fixed. No Amortise
+qty = 70
+nre = 2500
+nre_rem = nre_total - nre
+nre_perunit = nre_rem / qty
+unit_price_5 = CS_5
+unit_price_65 = CS_65
 
 # Quote Option 3
 nre
