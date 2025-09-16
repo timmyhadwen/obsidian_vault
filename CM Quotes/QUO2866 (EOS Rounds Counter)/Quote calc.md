@@ -2,13 +2,13 @@
 CS_10 = 195.51 # 10 QTY
 CS_50 = 132.21 # 50 QTY
 
-nre_base = 8050
+nre_base = 8050/2
 stencil = 500
 pcb_tooling = 300
 nre_total = nre_base + stencil + pcb_tooling
 
 # Option 1 - Amortised over 10 units
-nre = 3800
+nre = 2000
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
 
