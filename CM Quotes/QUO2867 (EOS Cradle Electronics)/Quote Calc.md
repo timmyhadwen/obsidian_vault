@@ -2,7 +2,7 @@
 ![[Pasted image 20250915161339.png]]
 ```math
 # Variables
-CS_5 = 2319.90 # 5 QTY
+CS_5 = 2342.19 # 5 QTY
 CS_65 = 1469.80 # 65 QTY
 nre_h = 69*230
 nre_l = 88*230
