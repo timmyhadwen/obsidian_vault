@@ -11,12 +11,12 @@ nre = 3800
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
 
-# Option 2 - Not Amortised
+# Option 2a - Not Amortised
 nre = nre_total
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
 
-# Option 2 - Full Amortised
+# Option 2b - Full Amortised
 nre = 0
 unit_price = CS_10 + (nre_total - nre)/10
 total = nre + unit_price*10
