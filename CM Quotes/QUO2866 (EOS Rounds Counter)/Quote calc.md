@@ -29,6 +29,13 @@ nre_perunit = nre_rem / 60
 unit_price_10 = nre_perunit + CS_10
 unit_price_50 = nre_perunit + CS_50
 
+# Option 3 - $2k5 Fixed. No Amortise.
+nre = 2000
+nre_rem = nre_base - nre
+nre_perunit = nre_rem / 60
+unit_price_10 = CS_10
+unit_price_50 = CS_50
+
 line_price_10 = unit_price_10 * 10 # 10x units pilot
 line_price_50 = unit_price_50 * 50 # 50x units serial
 ```
