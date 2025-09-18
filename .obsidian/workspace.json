@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Quotes/Bright Space/Quote Notes.md",
+                "file": "CM Quotes/Bright Space/Estimate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quote Notes"
+              "title": "Estimate"
             }
           }
         ]
@@ -192,26 +192,27 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "b43b37c4c345d245",
+  "active": "9033bafd98f0b445",
   "lastOpenFiles": [
-    "CM Quotes/Bright Space",
+    "CM Handbook/CM Handbook V2.md",
+    "CM Quotes/Bright Space/Estimate.md",
+    "CM Handbook/Midgard Requests.md",
+    "CM Handbook/Notes for CM handbook.md",
+    "CM Handbook/Panelisation in Altium.md",
     "CM Quotes/Bright Space/Quote Notes.md",
-    "CM Quotes/Bright Space/EVM005 - Enviromental Sensor",
-    "Hardware Projects/Aerovision/AeroVision Repair.md",
     "CM Quotes/QUO2866 (EOS Rounds Counter)/Quote calc.md",
     "CM Quotes/QUO2867 (EOS Cradle Electronics)/Quote calc.md",
     "CM Quotes/QUO2867 (EOS Cradle Electronics)/QUO2867_EOS_2004264-03.md",
-    "CM Handbook/CM Handbook V2.md",
-    "CM Handbook/Notes for CM handbook.md",
+    "CM Quotes/QUO2867 (EOS Cradle Electronics)/Contacts.md",
     "CM Quotes/QUO2867 (EOS Cradle Electronics)/Additional BOM Items.md",
-    "CM Handbook/Midgard Requests.md",
-    "CM Handbook/Panelisation in Altium.md",
+    "Hardware Projects/Aerovision/AeroVision Repair.md",
+    "CM Quotes/Bright Space",
+    "CM Quotes/Bright Space/EVM005 - Enviromental Sensor",
     "CM Handbook/CM Import Process.md",
     "AAA Attachments/Pasted image 20250915161339.png",
     "AAA Attachments/Pasted image 20250915161301.png",
     "Hardware Projects",
     "CM Builds",
-    "CM Quotes/QUO2867 (EOS Cradle Electronics)/Contacts.md",
     "CM Quotes/QUO2866 (EOS Rounds Counter)",
     "CM Quotes/QUO2",
     "CM Quotes",
@@ -227,7 +228,6 @@
     "AAA Attachments/Pasted image 20250901115529.png",
     "AAA Attachments/Pasted image 20250901115528.png",
     "AAA Attachments/Pasted image 20250901101052.png",
-    "AAA Attachments",
     "AAA Attachments"
   ]
 }
