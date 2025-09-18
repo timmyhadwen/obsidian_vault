@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/Checklist.md",
+                "file": "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/ProcessorModule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "ProcessorModule"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "9033bafd98f0b445",
   "lastOpenFiles": [
-    "CM Handbook/CM Handbook V2.md",
+    "OCC010_ProcessorModule.md",
+    "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/ProcessorModule.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/Checklist.md",
+    "CM Handbook/CM Handbook V2.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor",
     "CM Handbook/Panelisation in Altium.md",
     "CM Quotes/Bright Space/Estimate.md",
