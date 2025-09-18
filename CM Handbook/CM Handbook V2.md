@@ -5,6 +5,7 @@ Contract Manufacturing
 			1. BOM import
 				1. Naming scheme
 				2. Initial import (EBOM)
+				3. Adjustment and Pricing
 			2. Costing Sheet
 				1. Import from EBOM tool (Multiple)
 				2. RFQs of custom parts/hard to source parts
