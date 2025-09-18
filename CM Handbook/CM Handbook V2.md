@@ -4,16 +4,18 @@ Contract Manufacturing
 		1. Quoting
 			1. BOM import
 				1. Naming scheme
-				2. Initial import
-				3. RFQs of custom parts/hard to source parts
-				4. Free issued & customer supplied parts
-			2. Additional processes
+				2. Initial import (EBOM)
+			2. Costing Sheet
+				1. Import from EBOM tool (Multiple)
+				2. RFQs of custom parts/hard to source parts
+				3. Free issued & customer supplied parts
+			3. Additional processes
 				1. Conformal coating
 					1. Automated
 					2. Manual (Brush/Aerosol)
 				2. Staking/gluing
-			3. Labor estimates
-			4. Requirements register
+			4. Labor estimates
+			5. Requirements register
 		2. **Planning Gate Review**
 	2. Phase 2 - Design Import Phase
 		1. BOM structure
