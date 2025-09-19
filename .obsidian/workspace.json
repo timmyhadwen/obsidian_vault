@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Handbook/Midgard Requests.md",
+                "file": "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midgard Requests"
+              "title": "Assumptions"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "9033bafd98f0b445",
   "lastOpenFiles": [
-    "CM Handbook/CM Handbook V2.md",
+    "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
     "CM Handbook/Midgard Requests.md",
+    "CM Handbook/CM Handbook V2.md",
     "CM Handbook/Panelisation in Altium.md",
     "CM Handbook/Notes for CM handbook.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/HighLevel.md",
