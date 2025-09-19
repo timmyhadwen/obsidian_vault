@@ -1,2 +1,1 @@
 - Plastic Parts (Front Face, Body & Wall Plate) are provided free to IntelliDesign by Brightspace
-- 
