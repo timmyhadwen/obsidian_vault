@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Handbook/Panelisation in Altium.md",
+                "file": "CM Quotes/Bright Space/Questions for Errol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panelisation in Altium"
+              "title": "Questions for Errol"
             }
           }
         ],
@@ -207,16 +207,16 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "3f34abd7185c70f5",
+  "active": "b43b37c4c345d245",
   "lastOpenFiles": [
-    "CM Handbook/CM Handbook V2.md",
-    "Questions for Errol.md",
-    "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
-    "CM Handbook/Midgard Requests.md",
+    "OCC010_ProcessorModule.md",
+    "CM Quotes/Bright Space/Questions for Errol.md",
     "CM Handbook/Panelisation in Altium.md",
     "CM Handbook/Notes for CM handbook.md",
+    "CM Handbook/Midgard Requests.md",
+    "CM Handbook/CM Handbook V2.md",
+    "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/HighLevel.md",
-    "OCC010_ProcessorModule.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/ProcessorModule.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/Checklist.md",
     "CM Quotes/Bright Space/Estimate.md",
