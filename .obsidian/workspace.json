@@ -35,8 +35,7 @@
               "title": "CM Handbook V2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,14 +206,14 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "3f34abd7185c70f5",
+  "active": "9033bafd98f0b445",
   "lastOpenFiles": [
+    "CM Handbook/CM Handbook V2.md",
     "CM Quotes/Bright Space/Questions for Errol.md",
     "OCC010_ProcessorModule.md",
     "CM Handbook/Panelisation in Altium.md",
     "CM Handbook/Notes for CM handbook.md",
     "CM Handbook/Midgard Requests.md",
-    "CM Handbook/CM Handbook V2.md",
     "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/HighLevel.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/ProcessorModule.md",
