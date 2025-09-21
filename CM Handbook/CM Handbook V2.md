@@ -34,18 +34,17 @@ Contract Manufacturing
 				2. FAB3000
 			2. Stencil
 			3. PFS
-		7. Labeling and packaging
+		6. Labeling and packaging
 			1. Packaging kit
 			2. *CSN packaging labels*
-		8. Full RFQ
-		9. Change Notices and Deviations
-		10. *CR/SR creation and release*
-		11. **Design Import Gate Review**
+		7. Full RFQ
+		8. Change Notices and Deviations
+		9. *CR/SR creation and release*
+		10. **Design Import Gate Review**
 	3. Phase 3 - Build Readiness Phase
 		1. Test report template generation (TRT)
-		2. Prototype scheduling
-		3. *CR/SR creation and release*
-		4. **Build Readiness Gate Review**
+		2. *CR/SR creation and release*
+		3. **Build Readiness Gate Review**
 	4. Phase 4 - Pilot/FAI Phase
 		1. Customer response
 		2. **NPI Gate Review**
