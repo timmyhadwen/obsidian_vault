@@ -1,17 +1,11 @@
 
 Hi Kara,
 
-Thanks for the order for the 10x Rounds Counter M249 2010619 PCAs. I'll be managing the delivery of these products.
+Thanks for the order for the 10x Rounds Counter M249 2010619 PCAs. I'll be managing the delivery of this project.
 
-A few things we'll need to move on fairly quickly in order to meet the tight timelines.
-1. EOS supplied parts
-	1. AD22286-R2 EOS to supply 10 units to IntelliDesign
-	2. PIC Microcontroller 1001745, IntelliDesign to issue 10 units to EOS, to be issu
-
-
-Thanks for both orders for the new revision of the 4-Axis PCA. I’ll be managing the delivery of this product back into production and will be your point of contact for status updates until the product is re-qualified for serial production. At that point, Dan Fletcher (Production Planner) will take over for serial production orders.
-
-Ebony will be the project engineer. She’s already been in contact with Adrian Hunter regarding various issues. Could you please confirm that this is the preferred line of communication for technical discussion?
+A few things we'll need to move on fairly quickly in order to meet the tight timelines. Mainly related to the EOS supplied parts.
+1. AD22286-R2 EOS to supply 10 units to IntelliDesign
+2. PIC Microcontroller 1001745, IntelliDesign to issue 10 units to EOS, to be issued back to IntelliDesign once programmed.
 
 I helped Frank with the initial lead time review and didn’t identify any blockers to delivering the first 7 units within 6 weeks. Consequently I have set our dispatch date for PO45030493 as October 7. I understand EOS will be supplying a revision to that PO to remove the NRE charge.
 
