@@ -8,5 +8,7 @@ ID#46100
 
 Low level BOM
 - All parts
+- Packaging Kit
+- Bare board
 High level BOM
 - 
