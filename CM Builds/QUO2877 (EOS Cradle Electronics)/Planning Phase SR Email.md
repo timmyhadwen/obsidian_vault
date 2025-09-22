@@ -17,7 +17,7 @@ With the above requirements in mind, we have set the delivery date of the first 
 
 Project Timeline
 - PCBs purchased and received by 10th November including EOS supplied parts.
-- IntelliDesign manufactures 5 Assemblies. 3 week. Dispatch 4th December
+- IntelliDesign manufactures and tests 5 assemblies. 3 weeks. Dispatch 4th December.
 
 Kind regards,
 Tim Hadwen
