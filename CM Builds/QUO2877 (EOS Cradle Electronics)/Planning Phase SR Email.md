@@ -3,9 +3,9 @@ Hi Kara,
 
 Thanks for the order for the 70x Cradle Electronics PCAs. I'll be managing the delivery of this project.
 
-As noted in the quote the initial delivery of 5 units is contingent on us receiving sample quantities of the 3x Amphenol Positronic connectors.
+As noted in the quote the initial delivery of 5 units is contingent on us receiving sample quantities of the 3x Amphenol/Positronic connectors.
 
-Additionally we'll require the following parts from EOS:
+Additionally we'll require the following parts/information from EOS:
 1. IRL2505PBF - EOS to supply
 2. MMA6825BKCW - EOS to supply
 3. WCA05814 Common mode choke - we require an alternate part number for the ferrite core.
@@ -16,7 +16,7 @@ Additionally we'll require the following parts from EOS:
 With the above requirements in mind, we have set the delivery date of the first 5 units as 4th December.
 
 Project Timeline
-- PCBs purchased and received by 10th November including EOS supplied parts.
+- Parts purchased and received by 10th November including EOS supplied parts.
 - IntelliDesign manufactures and tests 5 assemblies. 3 weeks. Dispatch 4th December.
 
 Kind regards,
