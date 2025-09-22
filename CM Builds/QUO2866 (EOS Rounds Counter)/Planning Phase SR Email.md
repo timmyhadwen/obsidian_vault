@@ -9,9 +9,8 @@ A few things we'll need to move on fairly quickly in order to meet the tight tim
 
 As discussed in the quoting phase with Frank, we've set the dispatch date to the 17th October 2025.
 
-- FAI units dispatched October 7
-- EOS provides feedback and Intelli responds October 17.
-- PCBs purchased and received by 
+Project Timeline
+- PCBs purchased and received by Wed 8th October including EOS supplied parts.
 - IntelliDesign manufactures 10 PCAs. 1 week. Dispatch 17th October
 
 
