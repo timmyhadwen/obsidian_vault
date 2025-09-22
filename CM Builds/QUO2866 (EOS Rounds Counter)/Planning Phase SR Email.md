@@ -13,6 +13,5 @@ Project Timeline
 - PCBs purchased and received by Wed 8th October including EOS supplied parts.
 - IntelliDesign manufactures 10 PCAs. 1 week. Dispatch 17th October
 
-
 Kind regards,
 Tim Hadwen
