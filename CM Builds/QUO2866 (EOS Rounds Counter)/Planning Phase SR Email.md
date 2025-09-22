@@ -7,7 +7,7 @@ A few things we'll need to move on fairly quickly in order to meet the tight tim
 1. AD22286-R2 EOS to supply 10 units to IntelliDesign
 2. PIC Microcontroller 1001745, IntelliDesign to issue 10 units to EOS, to be issued back to IntelliDesign once programmed.
 
-I helped Frank with the initial lead time review and didn’t identify any blockers to delivering the first 7 units within 6 weeks. Consequently I have set our dispatch date for PO45030493 as October 7. I understand EOS will be supplying a revision to that PO to remove the NRE charge.
+As discussed in the quoting phase with Frank, we've set the dispatch date to the 17th October 2025.
 
 As this is a significant revision there is some risk that there will be errors in either the PCB design files, introduced through our translation of the files or by the PCB manufacturer. Consequently, I suggest that it’s prudent for us to wait on ordering the PCBs for PO45030495 until the first 7 units have been verified. The PCBs have a 3 week lead time. Subsequently I suggest the following timeline for delivery of the serial production order:
 
