@@ -13,11 +13,11 @@ Additionally we'll require the following parts from EOS:
 5. Test kit (including PC if software does not run on windows 11)
 6. Golden sample unit for validating test setup
 
-With the above requirements in mind, we have set the delivery date of the first 5 units as 4th December 2025.
+With the above requirements in mind, we have set the delivery date of the first 5 units as 4th December.
 
 Project Timeline
-- PCBs purchased and received by Wed 8th October including EOS supplied parts.
-- IntelliDesign manufactures 10 PCAs. 1 week. Dispatch 17th October
+- PCBs purchased and received by 10th November including EOS supplied parts.
+- IntelliDesign manufactures 5 Assemblies. 3 week. Dispatch 4th December
 
 Kind regards,
 Tim Hadwen
