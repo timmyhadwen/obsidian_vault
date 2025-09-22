@@ -11,4 +11,4 @@ Low level BOM
 - Packaging Kit (Example https://midgard/cms/components/components_db.cgi?item=35118)
 - Bare board
 High level BOM
-- 
+- None
