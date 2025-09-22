@@ -8,7 +8,7 @@ ID#46100
 
 Low level BOM
 - All parts
-- Packaging Kit
+- Packaging Kit (Example https://midgard/cms/components/components_db.cgi?item=35118)
 - Bare board
 High level BOM
 - 
