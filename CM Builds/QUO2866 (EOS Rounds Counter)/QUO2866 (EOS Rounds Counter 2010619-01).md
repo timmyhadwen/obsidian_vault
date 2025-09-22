@@ -6,6 +6,7 @@ ID#46100 (https://midgard/cms/components/components_db.cgi?item=46100)
 Low level BOM
 - All parts
 - Packaging Kit (Example https://midgard/cms/components/components_db.cgi?item=35118)
+	- ID#50814
 - Bare board
 High level BOM
 - None
