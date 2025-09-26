@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output Job File Stuff.md",
+                "file": "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Output Job File Stuff"
+              "title": "Build Notes"
             }
           }
         ],
@@ -99,8 +99,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,6 +209,8 @@
   },
   "active": "3f2ce52923137f2b",
   "lastOpenFiles": [
+    "CM Handbook/CM Handbook V2.md",
+    "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
     "Output Job File Stuff.md",
     "EOS Meeting.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/QUO2866 (EOS Rounds Counter 2010619-01).md",
@@ -218,7 +219,6 @@
     "CM Builds/QUO2866 (EOS Rounds Counter)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
     "CM Handbook/Panelisation in Altium.md",
-    "CM Handbook/CM Handbook V2.md",
     "CM Handbook/Notes for CM handbook.md",
     "CM Quotes/Bright Space/Quote Notes.md",
     "CM Quotes/Bright Space/Questions for Errol.md",
@@ -247,7 +247,6 @@
     "CM Builds/QUO2866 (EOS Rounds Counter)/Quote Notes",
     "CM Quotes/QUO2",
     "CM Quotes",
-    "AAA Attachments/Reimporting BOM into Costing Sheet.md",
     "AAA Attachments/Pasted image 20250901115815.png",
     "AAA Attachments/Pasted image 20250901130316.png",
     "AAA Attachments/Pasted image 20250901125644.png",
