@@ -9,3 +9,7 @@ https://midgard/cms/components/components_db.cgi?item=50914
 
 Reference TRT for other product that moves between TH and CC and back
 https://midgard/cms/newdb/view.cgi?form=test_record_template;key=6644
+
+
+- [ ] SSR A1 not in BOM or document with MPN
+	- [ ] Check with Kara
