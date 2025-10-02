@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
+                "file": "CM Handbook/Panelisation in Altium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build Notes"
+              "title": "Panelisation in Altium"
             }
           },
           {
@@ -208,13 +208,14 @@
   },
   "active": "91da34f9d4ef9ea8",
   "lastOpenFiles": [
-    "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Additional BOM Items.md",
+    "EOS Meeting.md",
+    "Hardware Projects/AerVision/AerVision Repair.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
+    "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Additional BOM Items.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/QUO2866 (EOS Rounds Counter 2010619-01).md",
     "CM Handbook/CM Handbook V2.md",
     "Output Job File Stuff.md",
-    "EOS Meeting.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
@@ -235,7 +236,6 @@
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/QUO2867_EOS_2004264-03.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Contacts.md",
-    "Hardware Projects/Aerovision/AeroVision Repair.md",
     "CM Quotes/Bright Space",
     "CM Quotes/Bright Space/EVM005 - Enviromental Sensor",
     "CM Handbook/CM Import Process.md",
