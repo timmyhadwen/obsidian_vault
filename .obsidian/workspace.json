@@ -35,7 +35,8 @@
               "title": "Build Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +207,9 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "91da34f9d4ef9ea8",
+  "active": "3f2ce52923137f2b",
   "lastOpenFiles": [
+    "CM Handbook/Panelisation in Altium.md",
     "EOS Meeting.md",
     "Hardware Projects/AerVision/AerVision Repair.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
@@ -219,7 +221,6 @@
     "CM Builds/QUO2866 (EOS Rounds Counter)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
-    "CM Handbook/Panelisation in Altium.md",
     "CM Handbook/Notes for CM handbook.md",
     "CM Quotes/Bright Space/Quote Notes.md",
     "CM Quotes/Bright Space/Questions for Errol.md",
