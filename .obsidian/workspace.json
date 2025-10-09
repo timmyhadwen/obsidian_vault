@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Build Notes"
             }
+          },
+          {
+            "id": "8833d8a5bc6f2ac6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "3f2ce52923137f2b",
+  "active": "8833d8a5bc6f2ac6",
   "lastOpenFiles": [
     "CM Handbook/Panelisation in Altium.md",
     "EOS Meeting.md",
