@@ -5,6 +5,8 @@
 - [ ] Make EBOM tool have a dropdown for client name instead of a free text
 	- [ ] Why: It is easy to mistakenly add the client as a wrong name
 - [ ] Allow EBOM imports to be archived instead of just being older than 3 months
-	- [ ] Why: Currently the "Old Imports" just shows costing sheets that were created more than 3 months ago. This both means one that we want are marked as old, but also that ones that we no longer need (ie early quoting, design verify etc) clog up the active table
+	- [ ] Why: Currently the "Old Imports" just shows costing sheets that were created more than 3 months ago. This both means one that we want are marked as old, but also that ones that we no longer need (i.e. early quoting, design verify etc) clog up the active table
 	- [ ] How: Suggest adding a button to archive and bring back
 	- [ ] Stretch Goal: Have a separate table for ones that have been released but not changed since the release
+- [ ] EBOM Diff Tool
+	- [ ] 
