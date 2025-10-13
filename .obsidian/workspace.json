@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Builds/QUO2866 (EOS Rounds Counter)/Issues with Output Job File 13.10.25.md",
+                "file": "Output Job File Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Issues with Output Job File 13.10.25"
+              "title": "Output Job File Stuff"
             }
           }
         ],
@@ -209,8 +209,11 @@
   },
   "active": "3f2ce52923137f2b",
   "lastOpenFiles": [
-    "CM Builds/QUO2265 (ASMB0875 & ASMB0873)/Notes.md",
+    "CM Handbook/Notes for CM handbook.md",
+    "CM Handbook/Midgard Requests.md",
+    "CM Handbook/CM Handbook V2.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Issues with Output Job File 13.10.25.md",
+    "CM Builds/QUO2265 (ASMB0875 & ASMB0873)/Notes.md",
     "Hardware Projects/AerVision/AerVision Repair.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
     "CM Builds/QUO2265 (ASMB0875 & ASMB0873)",
@@ -219,12 +222,10 @@
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Additional BOM Items.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/QUO2866 (EOS Rounds Counter 2010619-01).md",
-    "CM Handbook/CM Handbook V2.md",
     "Output Job File Stuff.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
-    "CM Handbook/Notes for CM handbook.md",
     "CM Quotes/Bright Space/Quote Notes.md",
     "CM Quotes/Bright Space/Questions for Errol.md",
     "CM Quotes/Bright Space/Estimate.md",
@@ -232,7 +233,6 @@
     "CM Builds/QUO2866 (EOS Rounds Counter)",
     "CM Quotes/Bright Space/EVM005 - Enviromental Sensor/Assumptions.md",
     "OCC010_ProcessorModule.md",
-    "CM Handbook/Midgard Requests.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/HighLevel.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/ProcessorModule.md",
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor/Checklist.md",
