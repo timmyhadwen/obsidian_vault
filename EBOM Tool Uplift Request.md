@@ -12,3 +12,5 @@
 	- [ ] What:
 		- [ ] Show MSL details from the IDs as a check
 		- [ ] Show ID type (SMT, TH etc), RoHS as a check
+- [ ] Show ID CID into matched IDs in the EBOM tool so that IDs don't all have to be clicked into in order to check which client the IDs are belonging to.
+	- [ ] 
