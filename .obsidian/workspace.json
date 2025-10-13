@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM Builds/QUO2265 (ASMB0875 & ASMB0873)/Notes.md",
+                "file": "CM Builds/QUO2866 (EOS Rounds Counter)/Issues with Output Job File 13.10.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Issues with Output Job File 13.10.25"
             }
           }
         ],
@@ -209,12 +209,13 @@
   },
   "active": "3f2ce52923137f2b",
   "lastOpenFiles": [
-    "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
     "CM Builds/QUO2265 (ASMB0875 & ASMB0873)/Notes.md",
+    "CM Builds/QUO2866 (EOS Rounds Counter)/Issues with Output Job File 13.10.25.md",
+    "Hardware Projects/AerVision/AerVision Repair.md",
+    "CM Builds/QUO2877 (EOS Cradle Electronics)/Build Notes.md",
     "CM Builds/QUO2265 (ASMB0875 & ASMB0873)",
     "CM Handbook/Panelisation in Altium.md",
     "EOS Meeting.md",
-    "Hardware Projects/AerVision/AerVision Repair.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Additional BOM Items.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Planning Phase SR Email.md",
     "CM Builds/QUO2866 (EOS Rounds Counter)/QUO2866 (EOS Rounds Counter 2010619-01).md",
@@ -238,7 +239,6 @@
     "CM Quotes/Bright Space/OCC010 - Occupancy Sensor",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Quote calc.md",
     "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/QUO2867_EOS_2004264-03.md",
-    "CM Builds/QUO2877 (EOS Cradle Electronics)/Quote Notes/Contacts.md",
     "CM Quotes/Bright Space",
     "CM Quotes/Bright Space/EVM005 - Enviromental Sensor",
     "AAA Attachments/Pasted image 20250915161339.png",
