@@ -6,10 +6,10 @@
 	- [ ] Why: It is easy to mistakenly add the client as a wrong name
 - [ ] Allow EBOM imports to be archived instead of just being older than 3 months
 	- [ ] Why: Currently the "Old Imports" just shows costing sheets that were created more than 3 months ago. This both means one that we want are marked as old, but also that ones that we no longer need (i.e. early quoting, design verify etc.) clog up the active table
-	- [ ] How: Suggest adding a button to archive and bring back
+	- [ ] How: Suggest adding a button to archive and un-archive
 	- [ ] Stretch Goal: Have a separate table for ones that have been released but not changed since the release
 - [ ] EBOM Diff Tool Minor Changes
 	- [ ] Show MSL details from the IDs as a check
 	- [ ] Show ID type (SMT, TH etc), RoHS as a check
 - [ ] Show ID CID into matched IDs in the EBOM tool so that IDs don't all have to be clicked into in order to check which client the IDs are belonging to
-![[Screenshot 2025-10-13 134924 1.png]]
+	- [ ] ![[Screenshot 2025-10-13 134924 1.png]]
