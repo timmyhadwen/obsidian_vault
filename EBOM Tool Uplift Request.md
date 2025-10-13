@@ -10,5 +10,6 @@
 	- [ ] Stretch Goal: Have a separate table for ones that have been released but not changed since the release
 - [ ] EBOM Diff Tool Minor Changes
 	- [ ] Show ID type (SMT, TH etc), RoHS & MSL
+	- [ ] Ideally pull images from Octopart for visual check that parts are the correct type and RoHS/MSL
 - [ ] Show ID CID into matched IDs in the EBOM tool so that IDs don't all have to be clicked into in order to check which client the IDs are belonging to
 	- [ ] ![[Screenshot 2025-10-13 134924 1.png]]
