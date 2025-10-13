@@ -1,7 +1,7 @@
 - [ ] Add line button in EBOM tool
 	- [ ] Why: We currently have to reimport the entire to add packaging kit etc. to the EBOM
-- [ ] Add line button in Costing Sheet when running from EBOMs
-	- [ ] Why: As above, we have to reimport from EBOM and then rebuild the costing sheet to be able to add lines.
+- [ ] Have the ability to rebuild Costing Sheets from EBOMs without having to clear RFQs, Quotes, Notes etc.
+	- [ ] Alternatively: Add the ability to add lines to costing sheets
 - [ ] Make EBOM tool have a dropdown for client name instead of a free text
 	- [ ] Why: It is easy to mistakenly add the client as a wrong name
 - [ ] Allow EBOM imports to be archived instead of just being older than 3 months
@@ -9,7 +9,6 @@
 	- [ ] How: Suggest adding a button to archive and un-archive
 	- [ ] Stretch Goal: Have a separate table for ones that have been released but not changed since the release
 - [ ] EBOM Diff Tool Minor Changes
-	- [ ] Show MSL details from the IDs as a check
-	- [ ] Show ID type (SMT, TH etc), RoHS as a check
+	- [ ] Show ID type (SMT, TH etc), RoHS & MSL
 - [ ] Show ID CID into matched IDs in the EBOM tool so that IDs don't all have to be clicked into in order to check which client the IDs are belonging to
 	- [ ] ![[Screenshot 2025-10-13 134924 1.png]]
