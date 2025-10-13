@@ -9,4 +9,6 @@
 	- [ ] How: Suggest adding a button to archive and bring back
 	- [ ] Stretch Goal: Have a separate table for ones that have been released but not changed since the release
 - [ ] EBOM Diff Tool
-	- [ ] Why: 
+	- [ ] What:
+		- [ ] Show MSL details from the IDs as a check
+		- [ ] Show ID type (SMT, TH etc), RoHS as a check
