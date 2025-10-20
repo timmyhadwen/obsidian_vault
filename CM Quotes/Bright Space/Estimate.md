@@ -7,8 +7,8 @@ Ex Kinetic tech guy
 ### Quote calculations
 #### EVM005 Environment Monitor
 ```math
-CS_10 = 571.20
-CS_1000 = 369.70
+CS_10 = 559.70
+CS_1000 = 358.24
 NRE = 15000
 
 # Option 1: Amortised NRE over 1000 units
