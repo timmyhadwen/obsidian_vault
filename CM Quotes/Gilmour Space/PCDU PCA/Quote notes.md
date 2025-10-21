@@ -47,3 +47,4 @@ COST = HRS*130
 ## Costings
 ### Tooling
 - PCB = US $726.66 = AU $1,115.07
+![[Pasted image 20251021113616.png]]
