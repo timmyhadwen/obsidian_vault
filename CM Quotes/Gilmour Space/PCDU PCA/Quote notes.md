@@ -5,6 +5,14 @@ X Ray each board
 ### Stencil Programming/Printing
 60 mins
 ### Hand Place
+
+Printing setup
+Stencil setup, print and cleanup two sides: 1 day
+SMT Place time: 2 days top side, 1 day bottom side
+Inspection: 0.5 day
+
+
+
 ```math
 SMT_PARTS = 87
 TH_PARTS = 3
