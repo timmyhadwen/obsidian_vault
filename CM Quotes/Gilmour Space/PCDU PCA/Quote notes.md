@@ -7,11 +7,12 @@ X Ray each board
 ### Hand Place
 
 Printing setup
-Stencil setup, print and cleanup two sides: 1 day
+Stencil setup, print and cleanup top: 4 hours top side, 2 hours bottom side
 SMT Place time: 2 days top side, 1 day bottom side
 Inspection: 0.5 day
+Admin/Packing: 0.5 day
 
-
+5 days * 6 hours = 30 hours
 
 ```math
 SMT_PARTS = 87
@@ -34,6 +35,7 @@ TOTAL_TIME_THA = S_PER_PIN*TH_PINS + S_PER_THA*TH_PARTS
 TOTAL_TIME_SMT = S_PER_SMT*SMT_PARTS
 TOTAL_TIME_S = STENCIL_SETUP_TIME_S + TOTAL_TIME_THA + TOTAL_TIME_SMT + S_OVEN
 TOTAL_TIME_HR = TOTAL_TIME_S/60/60
+TOTAL_TIME = TOTAL_TIME_HR*6
 
 # COST = TOTAL_TIME_HR*DOLLARS_PER_HOUR
 COST_PER_UNIT = TOTAL_TIME_HR*DOLLARS_PER_HOUR + PARTS_COST_W_MARGIN
