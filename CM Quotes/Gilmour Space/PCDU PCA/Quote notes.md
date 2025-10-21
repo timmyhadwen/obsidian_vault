@@ -54,7 +54,7 @@ SETUP_TIME = 60
 INSP_PER_BOARD_M = 6
 
 HRS = (SETUP_TIME + INSP_PER_BOARD_M*6)/60
-COST = HRS*130
+COST = HRS*130 # round up to 3
 ```
 ## Costings
 ### Tooling
