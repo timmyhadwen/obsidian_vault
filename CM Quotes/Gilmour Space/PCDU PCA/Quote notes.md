@@ -27,7 +27,7 @@ COST_PER_UNIT = COST/6 + PARTS_COST_W_MARGIN
 # IPC 610 Inspection
 # - Critical inspection including independant inspection of all parts
 
-S_PER_BOARD = 60*5 # First inspection only, 2x for real
+S_PER_BOARD = 60*5 * 2
 IPC_COST = (S_PER_BOARD/60)*DOLLARS_PER_HOUR
 
 COST_PER_UNIT_IPC = COST_PER_UNIT + IPC_COST
