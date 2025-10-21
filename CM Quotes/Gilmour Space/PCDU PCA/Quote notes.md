@@ -1,6 +1,5 @@
 6 boards hand placed by Mihaela
 - Fine pitched so will need to program a stencil printer to print the boards before hand placing
-
 X Ray each board
 ## Timings
 ### Stencil Programming/Printing
@@ -34,13 +33,13 @@ COST_PER_UNIT = TOTAL_TIME_HR*DOLLARS_PER_HOUR + PARTS_COST_W_MARGIN
 # IPC 610 Inspection
 # - Critical inspection including independant inspection of all parts
 S_PER_BOARD = 60*8 * 2
-IPC_COST = (S_PER_BOARD/60)*DOLLARS_PER_HOUR
+IPC_COST = (S_PER_BOARD/60) * DOLLARS_PER_HOUR
 
 COST_PER_UNIT_IPC = COST_PER_UNIT + IPC_COST
 ```
 ### X-Ray
 ```math
-SETUP_TIME = 45
+SETUP_TIME = 60
 
 INSP_PER_BOARD_M = 6
 
