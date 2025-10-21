@@ -17,7 +17,7 @@ STENCIL_SETUP_TIME_S = STENCIL_SETUP_TIME_M*60
 
 S_PER_THA = 5
 S_PER_PIN = 15
-S_PER_SMT = 15
+S_PER_SMT = 30
 
 S_OVEN = 2*60
 
@@ -33,13 +33,11 @@ COST_PER_UNIT = TOTAL_TIME_HR*DOLLARS_PER_HOUR + PARTS_COST_W_MARGIN
 
 # IPC 610 Inspection
 # - Critical inspection including independant inspection of all parts
-
 S_PER_BOARD = 60*5 * 2
 IPC_COST = (S_PER_BOARD/60)*DOLLARS_PER_HOUR
 
 COST_PER_UNIT_IPC = COST_PER_UNIT + IPC_COST
 ```
-
 ### X-Ray
 ```math
 SETUP_TIME = 45
