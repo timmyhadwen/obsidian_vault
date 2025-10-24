@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "729ab60882e7e077",
+        "id": "8ef2a3fc6cf4fbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "91da34f9d4ef9ea8",
+            "id": "7acad88ce84f0ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,11 +193,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91da34f9d4ef9ea8",
+  "active": "7acad88ce84f0ff9",
   "lastOpenFiles": [
+    "CM Quotes/Brightspace/Estimate.md",
+    "2025-10-26.md",
+    "Daily Notes/24-10-2025.md",
     "Daily Notes/23-10-2025.md",
     "AAA Attachments/Pasted image 20251021113616.png",
-    "Daily Notes/24-10-2025.md",
     "CM Handbook/Panelisation in Altium.md",
     "2025-10-24.md",
     "CM Handbook/CM Handbook V2.md",
@@ -208,7 +210,6 @@
     "Daily Todos",
     "CM Quotes/Gilmour Space/PCDU PCA/Quote notes.md",
     "CM Builds/EOS 4 Axis",
-    "CM Quotes/Brightspace/Estimate.md",
     "CM Quotes/Gilmour Space/PCDU PCA",
     "CM Quotes/Gilmour Space",
     "CM Quotes/Brightspace/Quote Notes.md",
