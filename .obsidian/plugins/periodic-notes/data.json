@@ -1,11 +1,11 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "DD-MM-YYYY",
     "template": "",
-    "folder": "",
+    "folder": "Daily Notes",
     "enabled": true
   },
   "weekly": {
