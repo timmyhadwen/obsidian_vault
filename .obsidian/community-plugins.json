@@ -4,9 +4,9 @@
   "table-extended",
   "spreadsheets",
   "numerals",
-  "obsidian-rollover-daily-todos",
   "periodic-notes",
-  "obsidian-overdue",
+  "obsidian-tasks-plugin",
   "due-when",
-  "obsidian-tasks-plugin"
+  "obsidian-overdue",
+  "obsidian-rollover-daily-todos"
 ]
