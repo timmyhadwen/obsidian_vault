@@ -1,0 +1,4 @@
+- [ ] Generic reflow profile not good enough from previous supplier
+- [ ] Some parts possibly too close to be pick and placed
+- [ ] Jumper wires gone
+- [ ] Replaced old footprints with new ones to not have to solder 0603 to SOT23
