@@ -14,3 +14,7 @@
 - States that we do not create a PFS, discussions with Khan, we must always produce a PFS due to QA incoming process.
 	- Suggestion: 1 page PFS that we use for these projects
 ![[Pasted image 20251103134835.png]]
+
+## Design Import Gate Issues
+- Design import gate notes say this blocks purchasing, but we purchase **way** before this! IMS says the same which is also not what we do.
+![[Pasted image 20251103135138.png]]![[Pasted image 20251103135229.png]]
