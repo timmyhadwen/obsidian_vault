@@ -7,3 +7,10 @@
 		1. Small/Med/Large
 		2. Masked/Not Masked
 		3. SingleSide/DualSide
+
+
+
+## CM Simple PCA 
+- States that we do not create a PFS, discussions with Khan, we must always produce a PFS due to QA incoming process.
+	- Suggestion: 1 page PFS that we use for these projects
+![[Pasted image 20251103134835.png]]
