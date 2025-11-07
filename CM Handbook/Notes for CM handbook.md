@@ -18,3 +18,6 @@
 ## Design Import Gate Issues
 - Design import gate notes say this blocks purchasing, but we purchase **way** before this! IMS says the same which is also not what we do.
 ![[Pasted image 20251103135138.png]]![[Pasted image 20251103135229.png]]
+
+## Releasing packaging kits
+Create folder on review, add P1 (or other) folder.
