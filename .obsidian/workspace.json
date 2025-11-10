@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defendable Tech BOM.md",
+                "file": "Hardware Projects/Defendable Technologies/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defendable Tech BOM"
+              "title": "Questions"
             }
           }
         ],
@@ -210,8 +210,10 @@
   },
   "active": "3d6d6be5cee15ab0",
   "lastOpenFiles": [
+    "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
+    "Hardware Projects/Defendable Technologies/Questions.md",
+    "Hardware Projects/Defendable Technologies",
     "Daily Notes/10-11-2025.md",
-    "Defendable Tech BOM.md",
     "CM Handbook/Midgard Requests.md",
     "Daily Notes/07-11-2025.md",
     "CM Handbook/Notes for CM handbook.md",
@@ -240,7 +242,6 @@
     "AAA Attachments/Pasted image 20251021113616.png",
     "2025-10-24.md",
     "Daily Notes",
-    "EBOM Tool Uplift Request.md",
     "Daily Todos",
     "CM Builds/EOS 4 Axis",
     "CM Quotes/Gilmour Space/PCDU PCA",
@@ -251,7 +252,6 @@
     "CM Builds/QUO2877 (EOS Cradle Electronics)",
     "CM Builds/QUO2866 (EOS Rounds Counter)",
     "CM Quotes/Brightspace/OCC010 - Occupancy Sensor",
-    "CM Quotes/Brightspace",
     "AAA Attachments/Pasted image 20250915161339.png",
     "AAA Attachments/Pasted image 20250915161301.png",
     "AAA Attachments/Pasted image 20250901115815.png",
