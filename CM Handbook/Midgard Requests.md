@@ -4,9 +4,7 @@
 3. When running off a Tritium BOM it is difficult/not practical to reimport from the BOM
 	1. At the moment we add &rebuild=1 to the url and then lose all our notes/comments/RFQs etc
 	2. Could we make the diff tool that works with EBOMs work with Tritum BOMs?
-4. Could we have a button to add a line to the Costing Sheet?
-	1. This can be useful when extra parts are found in project documentation that aren't in the BOM or if there is a weird labour amount that needs to be included but doesn't relate to a specific part
-5. Could we clear octopart queries or at least their results for parts which are not octopart but have an MPN that matches something else on octopart?
+4. Could we clear octopart queries or at least their results for parts which are not octopart but have an MPN that matches something else on octopart?
 ## Task Boards
 1. Select all lines button (useful when doing scheduling for CM projects etc)
 	1. Sequence all projects button would be equally as useful
