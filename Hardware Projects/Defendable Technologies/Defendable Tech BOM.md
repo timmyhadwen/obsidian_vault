@@ -8,3 +8,7 @@ Cable 2: Fan connector
 
 Cable 3: Power Cable
 - Barrel jack to ???? on the Kontron
+
+
+51000 - Auralis Core
+51200 - Auralis Wave

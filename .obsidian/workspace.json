@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
+                "file": "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions for Sarah"
+              "title": "Defendable Tech BOM"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "3d6d6be5cee15ab0",
   "lastOpenFiles": [
-    "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
+    "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Hardware Projects/Defendable Technologies",
     "Daily Notes/10-11-2025.md",
     "CM Handbook/Midgard Requests.md",
