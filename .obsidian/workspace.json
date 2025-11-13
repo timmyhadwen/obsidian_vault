@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Questions for Sarah"
             }
+          },
+          {
+            "id": "0aa41839e8c2d291",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d6d6be5cee15ab0",
+  "active": "0aa41839e8c2d291",
   "lastOpenFiles": [
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Daily Notes/12-11-2025.md",
