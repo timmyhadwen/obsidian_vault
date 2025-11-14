@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
+                "file": "Daily Notes/14-11-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions for Sarah"
-            }
-          },
-          {
-            "id": "0aa41839e8c2d291",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "14-11-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +193,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0aa41839e8c2d291",
+  "active": "3d6d6be5cee15ab0",
   "lastOpenFiles": [
+    "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
+    "Daily Notes/14-11-2025.md",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Daily Notes/12-11-2025.md",
     "Daily Notes/11-11-2025.md",
-    "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
     "Hardware Projects/Defendable Technologies",
     "Daily Notes/10-11-2025.md",
     "CM Handbook/Midgard Requests.md",
@@ -237,7 +225,6 @@
     "CM Quotes/Brightspace/Estimate.md",
     "CM Builds/QUO2799 (ASMB0607)/QUO2799 (ASMB0607).md",
     "2025-10-27.md",
-    "Daily Notes/2025-10-27.md",
     "AAA Attachments/Pasted image 20251021113616.png",
     "Daily Notes",
     "Daily Todos",
