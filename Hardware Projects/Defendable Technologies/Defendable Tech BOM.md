@@ -13,6 +13,3 @@ Cable 3: Power Cable
 
 51000 - Auralis Core
 51200 - Auralis Wave
-
-# TODO
-- Ask for datasheet for Kontron board
