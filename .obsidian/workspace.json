@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Projects/Personal Handbook/Altium Layers.md",
+                "file": "Hardware Projects/RDA Headset/Quote Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altium Layers"
+              "title": "Quote Notes"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "3d6d6be5cee15ab0",
   "lastOpenFiles": [
-    "Daily Notes/17-11-2025.md",
     "Hardware Projects/Personal Handbook/Altium Layers.md",
+    "Daily Notes/17-11-2025.md",
     "Hardware Projects/Personal Handbook",
     "Hardware Projects/RDA Headset/Quote Notes.md",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
