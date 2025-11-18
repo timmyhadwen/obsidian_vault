@@ -1,7 +1,7 @@
 - [ ] Add line button in EBOM tool
 	- [ ] Why: We currently have to reimport the entire to add packaging kit etc. to the EBOM
-- [ ] Have the ability to rebuild Costing Sheets from EBOMs without having to clear RFQs, Quotes, Notes etc.
-	- [ ] Alternatively: Add the ability to add lines to costing sheets
+- [x] Have the ability to rebuild Costing Sheets from EBOMs without having to clear RFQs, Quotes, Notes etc. ✅ 2025-11-18
+	- [x] Alternatively: Add the ability to add lines to costing sheets ✅ 2025-11-18
 - [ ] Make EBOM tool have a dropdown for client name instead of a free text
 	- [ ] Why: It is easy to mistakenly add the client as a wrong name
 - [ ] Allow EBOM imports to be archived instead of just being older than 3 months
