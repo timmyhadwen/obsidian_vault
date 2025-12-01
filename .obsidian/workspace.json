@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Gilmour Plan"
             }
+          },
+          {
+            "id": "b8db9592d1e64103",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb8afb634fdd8741",
+  "active": "b8db9592d1e64103",
   "lastOpenFiles": [
     "Gilmour Plan.md",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
