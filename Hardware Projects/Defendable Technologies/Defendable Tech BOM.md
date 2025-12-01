@@ -13,3 +13,10 @@ Cable 3: Power Cable
 
 51000 - Auralis Core
 51200 - Auralis Wave
+
+
+
+## Mech Questions
+### Wave
+1. Do we need CAB-003 Fastening Block?
+2. MEC-03 is a snake eye tamper resistant screw, 6/32 size. Can we replace with metric?
