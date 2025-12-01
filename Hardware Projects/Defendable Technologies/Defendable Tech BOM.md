@@ -20,3 +20,10 @@ Cable 3: Power Cable
 ### Wave
 1. Do we need CAB-003 Fastening Block?
 2. MEC-03 is a snake eye tamper resistant screw, 6/32 size. Can we replace with metric?
+3. MEC-017 is a 6-32 x 3/8" bolt, can we replace with metric and T7? Production have like 3 phillips bits
+
+### Core
+
+## Sarah Questions
+### Wave
+1. Can we use house polyurethane? It is grey
