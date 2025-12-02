@@ -23,3 +23,14 @@ Project done!
 - Smoke test 5.5V rail of each SMU
 - Add nicomatic connectors with underspacers
 - Attach to BMS and measure Q current inhibited
+
+#### Send to GIL
+1x BMS
+18x SMU smoke tested
+1x Test Jig with 6 connectors (1-6)
+
+#### GIL send to ID
+1x BMS
+18x Tested SMUs
+
+#### Intelli to attach batteries
