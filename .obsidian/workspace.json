@@ -35,7 +35,8 @@
               "title": "Gilmour Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d6d6be5cee15ab0",
+  "active": "eb8afb634fdd8741",
   "lastOpenFiles": [
-    "Gilmour Plan.md",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
+    "Gilmour Plan.md",
     "Daily Notes/21-11-2025.md",
     "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
     "Daily Notes/20-11-2025.md",

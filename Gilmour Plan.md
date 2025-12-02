@@ -17,3 +17,9 @@ Short test
 
 **Send to GST***
 Project done!
+
+
+## New Plan
+- Smoke test 5.5V rail of each SMU
+- Add nicomatic connectors with underspacers
+- Attach to BMS and measure Q current inhibited
