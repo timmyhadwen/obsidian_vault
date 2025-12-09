@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Projects/Personal Handbook/Output Job File Stuff.md",
+                "file": "Hardware Projects/Gilmour Space/PCDU PCA/Quote notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Output Job File Stuff"
+              "title": "Quote notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,12 +207,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb8afb634fdd8741",
+  "active": "3d6d6be5cee15ab0",
   "lastOpenFiles": [
+    "Hardware Projects/Gilmour Space/PCDU PCA/Quote notes.md",
+    "Hardware Projects/Gilmour Space/Gilmour Plan.md",
     "Hardware Projects/Personal Handbook/Altium Layers.md",
     "Hardware Projects/Personal Handbook/Output Job File Stuff.md",
     "Hardware Projects/Retina Visions/Fuel Gauge.md",
-    "Hardware Projects/Gilmour Space/Gilmour Plan.md",
     "Hardware Projects/Gilmour Space/CAN Adapters/CAN Adapter Stackup.md",
     "Hardware Projects/Gilmour Space/GIL TRT/50075P10005.md",
     "Hardware Projects/Gilmour Space/GIL TRT",
