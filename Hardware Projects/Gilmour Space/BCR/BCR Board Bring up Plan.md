@@ -11,4 +11,5 @@
 8. Measure voltage at TP9 (may need enable pin)
 
 ## MPPT
-1. 
+1. Inject 28V/0.5A into PV1_A/B
+	1. Monitor MPPT_OUT at TP1
