@@ -9,3 +9,8 @@
 - [ ] Receive DEF supplied parts
 - [ ] Bring up Kontron boards
 - [ ] Write TRT and test plan
+
+E14 PO71322 DHL: **1448566103** - Brisbane Saturday
+FS.com PO71319 Startrack - Delivered Friday?
+Mouser FedEx 495217815030 - Matraville Friday
+Accugroup - No shipping info?
