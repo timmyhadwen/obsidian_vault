@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e61d18e2c281012",
+        "id": "cc8799b229dc3830",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cfca445b82dcb8",
+            "id": "e0a32666a531786d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/07-01-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "07-01-2026"
             }
           }
         ]
@@ -188,16 +192,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7cfca445b82dcb8",
+  "active": "e0a32666a531786d",
   "lastOpenFiles": [
-    "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+    "Daily Notes/05-01-2026.md",
+    "Daily Notes/07-01-2026.md",
+    "2026-01-07.md",
     "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
-    "Pasted image 20260107172842.png",
-    "Pasted image 20260107171655.png",
+    "Holiday Work ToDo List.md",
+    "AAA Attachments/Pasted image 20260107171655.png",
+    "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+    "AAA Attachments/Pasted image 20260107172842.png",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Def Problem Parts.md",
-    "Daily Notes/05-01-2026.md",
-    "Holiday Work ToDo List.md",
     "Hardware Projects/Personal Handbook/Altium Layers.md",
     "Hardware Projects/Personal Handbook/Output Job File Stuff.md",
     "Hardware Projects/Retina Visions/Fuel Gauge.md",
@@ -223,7 +229,6 @@
     "Daily Notes/17-11-2025.md",
     "Hardware Projects/Personal Handbook",
     "Hardware Projects/AAA Archive/RDA Headset",
-    "Daily Notes/14-11-2025.md",
     "Hardware Projects/Gilmour Space/CAN Adapters",
     "Hardware Projects/Defendable Technologies",
     "AAA Attachments/Pasted image 20251103134835.png",

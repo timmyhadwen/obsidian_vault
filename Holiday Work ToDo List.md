@@ -4,10 +4,10 @@
 - [ ] Handover to Jeremy
 
 # Defendable
-- [ ] Order 4 cabling parts
-- [ ] Receive metalwork
-- [ ] Receive DEF supplied parts
-- [ ] Bring up Kontron boards
+- [x] Order 4 cabling parts ✅ 2026-01-07
+- [x] Receive metalwork ✅ 2026-01-07
+- [x] Receive DEF supplied parts ✅ 2026-01-07
+- [x] Bring up Kontron boards ✅ 2026-01-07
 - [ ] Write TRT and test plan
 
 E14 PO71322 DHL: **1448566103** - Brisbane Saturday
