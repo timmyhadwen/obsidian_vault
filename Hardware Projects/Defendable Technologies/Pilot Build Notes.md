@@ -12,3 +12,5 @@ Input to COM, output to reflect = 154uW
 Input to COM, output to output = 30.7uW
 
 Input to output, output to input = LO
+
+![[Pasted image 20260108134115.png]]
