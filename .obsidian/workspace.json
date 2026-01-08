@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QUO2799.md",
+                "file": "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUO2799"
+              "title": "Outgoing links from Pilot Build Notes"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QUO2799.md",
+                "file": "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QUO2799"
+              "title": "Outline of Pilot Build Notes"
             }
           },
           {
@@ -187,11 +187,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +210,8 @@
   },
   "active": "52e21601dd4bcd13",
   "lastOpenFiles": [
-    "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+    "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
     "Daily Notes/07-01-2026.md",
     "Daily Notes/05-01-2026.md",
