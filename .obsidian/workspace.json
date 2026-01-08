@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+                "file": "Hardware Projects/Gilmour Space/2026 TRT Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pilot Build Notes"
+              "title": "2026 TRT Notes"
             }
           }
         ],
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+                "file": "Hardware Projects/Gilmour Space/2026 TRT Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pilot Build Notes"
+              "title": "Outgoing links from 2026 TRT Notes"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+                "file": "Hardware Projects/Gilmour Space/2026 TRT Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pilot Build Notes"
+              "title": "Outline of 2026 TRT Notes"
             }
           },
           {
@@ -210,8 +210,12 @@
   },
   "active": "52e21601dd4bcd13",
   "lastOpenFiles": [
-    "Pasted image 20260108134115.png",
+    "Hardware Projects/Gilmour Space/GIL TRT/50075P10005.md",
+    "Hardware Projects/Gilmour Space/2026 TRT Notes.md",
+    "Hardware Projects/Gilmour Space/BCR/BCR Board Bring up Plan.md",
+    "Hardware Projects/Gilmour Space/Gilmour Plan.md",
     "Hardware Projects/Defendable Technologies/Pilot Build Notes.md",
+    "Pasted image 20260108134115.png",
     "Hardware Projects/Defendable Technologies/Defendable Tech BOM.md",
     "Hardware Projects/Defendable Technologies/Questions for Sarah.md",
     "Daily Notes/07-01-2026.md",
@@ -226,10 +230,7 @@
     "Hardware Projects/Retina Visions/Fuel Gauge.md",
     "EBOM Tool Uplift Request.md",
     "Daily Notes/30-12-2025.md",
-    "Hardware Projects/Gilmour Space/GIL TRT/50075P10005.md",
     "Hardware Projects/Gilmour Space/PCDU PCA/Quote notes.md",
-    "Hardware Projects/Gilmour Space/Gilmour Plan.md",
-    "Hardware Projects/Gilmour Space/BCR/BCR Board Bring up Plan.md",
     "Hardware Projects/Gilmour Space/BCR",
     "Hardware Projects/Gilmour Space/CAN Adapters/CAN Adapter Stackup.md",
     "Hardware Projects/Gilmour Space/GIL TRT",
@@ -254,7 +255,6 @@
     "Daily Notes",
     "Daily Todos",
     "AAA Attachments/Screenshot 2025-10-13 134924 1.png",
-    "AAA Attachments/Screenshot 2025-10-13 134924.png",
-    "AAA Attachments/Pasted image 20250915161339.png"
+    "AAA Attachments/Screenshot 2025-10-13 134924.png"
   ]
 }
