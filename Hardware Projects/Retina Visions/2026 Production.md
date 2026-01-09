@@ -1,0 +1,2 @@
+- Ideally merge both PIs to a batch qty of 20
+- Likely to run first week of Feb
